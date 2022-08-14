@@ -42,5 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aharry7&show_icons=true&locale=en" alt="aharry7" /></p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aharry7&" alt="aharry7" /></p>
 
