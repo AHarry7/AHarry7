@@ -6,7 +6,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/adeelharry" target="blank"><img src="https://img.shields.io/twitter/follow/adeelharry?logo=twitter&style=for-the-badge" alt="adeelharry" /></a> </p>
 
 # 💫 About Me :
 - 🔭 I’m currently working on [Vidly](https://github.com/AHarry7/Movies_React.js)
@@ -28,7 +27,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/adeelharry?logo=Twitter&style=for-the-badge)](https://twitter.com/adeelharry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeelharry)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZvCIzhpIyIho3hF2pKOGHA)
-[StackOverflow](https://stackoverflow.com/users/19588950/adeel-harry)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19588950/adeel-harry)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
