@@ -29,6 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2302569B.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeelharry)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZvCIzhpIyIho3hF2pKOGHA)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FF4500?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19588950/adeel-harry)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2335495e.svg?style=for-the-badge&logo=HackerRank&logoColor=%234FC08D)](https://www.hackerrank.com/adeelharry)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
