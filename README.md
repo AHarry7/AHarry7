@@ -24,7 +24,7 @@
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adeelharry)
-[![Facebook](https://img.shields.io/badge/Facebook-0078B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adeelharry7)
+[![Facebook](https://img.shields.io/badge/Facebook-0078B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aharry77)
 [![Twitter](https://img.shields.io/twitter/follow/adeelharry?logo=Twitter&style=for-the-badge)](https://twitter.com/adeelharry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2302569B.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeelharry)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZvCIzhpIyIho3hF2pKOGHA)
