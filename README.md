@@ -8,9 +8,9 @@
 
 
 # 💫 About Me :
-- 🔭 I’m currently working on [Vidly](https://github.com/AHarry7/Movies_React.js)
+<!-- - 🔭 I’m currently working on [Vidly](https://github.com/AHarry7/Movies_React.js) -->
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 👨‍💻 All of my projects are available at [adeel's projects](https://github.com/AHarry7?tab=repositories)
 
