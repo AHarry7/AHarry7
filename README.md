@@ -53,7 +53,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=aharry7&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=aharry7&theme=vue"/>
 </p>
 
 
