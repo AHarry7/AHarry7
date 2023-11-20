@@ -8,17 +8,21 @@
 
 
 # 💫 About Me :
-<!-- - 🔭 I’m currently working on [Vidly](https://github.com/AHarry7/Movies_React.js) -->
+<!-- -  I’m currently working on [Vidly](https://github.com/AHarry7/Movies_React.js) -->
 
 <!-- - 🌱 I’m currently learning **React** -->
 
-- 👨‍💻 All of my projects are available at [adeel's projects](https://github.com/AHarry7?tab=repositories)
+- ⚡ I love playing video games
 
-- 💬 Ask me about **React, C++, OOP, DSA** or any tech-related stuff
+- 👨‍💻 All of my projects are available [here](https://github.com/AHarry7?tab=repositories)
+  
+- 🔭 Check out my website [here](https://adeelharry.online)
+
+- 💬 You can ask me about any tech-related stuff
 
 - 📫 You can mail me at **Adeelharry@gmail.com**
 
-- ⚡ Fun fact **I love playing video games.**
+
 
 
 ## 🌐 Socials
