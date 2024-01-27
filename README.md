@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Assalam+O+Aalaikom!;Hello!+There+%F0%9F%91%8B)](https://github.com/AHarry7)
 
-<!-- <img align="right" alt="coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<div align="center" style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
+  <img alt="coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 
 
 
