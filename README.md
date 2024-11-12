@@ -26,7 +26,7 @@
 
 - 📜 &nbsp;  Certified in React, Redux, AWS, and Data Science
   
-- 🔭 &nbsp;  Check out my [portfolio](https://adeelharry.online)
+- 🔭 &nbsp;  Check out my [portfolio](https://adeeldev.vercel.app/)
 
 - 📫 &nbsp;  For queries, mail me at **Adeelharry@gmail.com**
 
